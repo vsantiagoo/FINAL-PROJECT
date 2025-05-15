@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "user_id": 2,
+    "title": "Tudo sobre IA",
+    "body": "Confira como usufruir dos beneficios da IA"
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "title": "IA no mundo",
+    "body": "Como a IA est\u00e1 revolucionando o mundo. "
+  }
+]
