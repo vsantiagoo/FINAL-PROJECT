@@ -7,9 +7,9 @@ COMENTARIOS_FILE = "comentarios.json"
 
 # Simulando banco de dados de usuários
 usuarios = {
-    1: {"email": "joao@example.com", "senha": "123"},
-    2: {"email": "maria@example.com", "senha": "456"},
-    3: {"email": "carlos@example.com", "senha": "789"},
+    1: {"email": "pedro@example.com", "senha": "123"},
+    2: {"email": "laura@example.com", "senha": "456"},
+    3: {"email": "ricardo@example.com", "senha": "789"},
 }
 
 # Funções para carregar e salvar dados em JSON
